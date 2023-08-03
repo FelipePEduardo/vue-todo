@@ -7,7 +7,7 @@ Esse é o desafio de criar uma ToDo List com Vue 3! O layout está todo pronto p
 
 ## Demonstração
 
-🚧🚧
+![image](https://github.com/FelipePEduardo/vue-todo/assets/103855358/f286df06-76e9-4008-8e39-4db866825e67)
 
 ## Stack's
 
