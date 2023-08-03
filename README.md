@@ -2,7 +2,7 @@
 
 Esse é o desafio de criar uma ToDo List com Vue 3! O layout está todo pronto porém você só precisa fazer o projeto funcionar. Recomendado fazer o projeto em Options API primeiro e depois alterar para Composition API para poder adquirir o máximo de conhecimento!
 
-- O projeto conta com a biblioteca [UUID](https://www.npmjs.com/package/uuid) não esqueça de usa-lá para a criação da tarefa.
+- O projeto já tem adicionado a biblioteca [UUID](https://www.npmjs.com/package/uuid) não esqueça de usa-lá para a criação da tarefa.
 - O projeto conta com a pasta DTO para ajudar na tipagem da tarefa. Utilize o import assim: ```import { type TaskDto } from '@/DTO'```
 
 ## Demonstração
